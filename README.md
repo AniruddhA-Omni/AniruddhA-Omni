@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha-omni&show_icons=true&locale=en" alt="aniruddha-omni" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha-omni&show_icons=true&locale=en&layout=compact" alt="aniruddha-omni" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha-omni&" alt="aniruddha-omni" /></p>
